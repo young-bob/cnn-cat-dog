@@ -1,4 +1,9 @@
-# Project Objectives
+
+# Building and Evaluating a Convolutional Neural Network for Cat vs. Dog Image Classification
+
+[A report on medium.com](https://medium.com/@ybyncn/building-and-evaluating-a-convolutional-neural-network-for-cat-vs-dog-image-classification-b2163c7e8b18)
+
+## Project Objectives
 
 1. **Hands-on Deep Learning Experience**: Gain practical experience in deep learning by implementing a Convolutional Neural Network (CNN) from scratch using the TensorFlow-Keras API. This approach emphasizes hands-on learning in model development and deployment.
 
@@ -8,13 +13,13 @@
 
 ---
 
-# Project Overview
+## Project Overview
 
 This project focuses on building a CNN to classify images of cats and dogs. The training dataset comprises 4,000 images of dogs and 4,000 images of cats, while the evaluation is conducted on a test set of 1,000 images per class. After training, the model will be applied to classify images in the `single_prediction` folder, determining whether each image depicts a cat or a dog.
 
 ---
 
-# Implementation Details
+## Implementation Details
 
 - **Framework**: Use TensorFlow with its integrated Keras API for model construction. Keras, originally a standalone high-level API for neural networks, is now a core component of TensorFlow, providing a simplified and user-friendly interface. Its integration with TensorFlow ensures access to a robust backend, optimized computation, and distributed training capabilities.
 
