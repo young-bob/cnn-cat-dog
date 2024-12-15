@@ -1,7 +1,7 @@
 
 # Building and Evaluating a Convolutional Neural Network for Cat vs. Dog Image Classification
 
-<a href="https://medium.com/@ybyncn/building-and-evaluating-a-convolutional-neural-network-for-cat-vs-dog-image-classification-b2163c7e8b18" target="_blank">A report on medium.com</a>
+[A report on medium.com](https://medium.com/@ybyncn/building-and-evaluating-a-convolutional-neural-network-for-cat-vs-dog-image-classification-b2163c7e8b18)
 
 ## Project Objectives
 
